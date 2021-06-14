@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: 'Montserrat', sans-serif;
 }
@@ -74,7 +78,7 @@ p {
 /* Features Section */
 #features {
   font-family: 'Montserrat', sans-serif;
-  font-weight: Bold 700;
+  font-weight: 700;
   text-align: center;
   padding: 7% 15%;
   background-color: white;
